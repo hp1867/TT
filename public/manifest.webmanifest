@@ -1,0 +1,12 @@
+{
+  "name": "Sportsx Table Tennis Hub",
+  "short_name": "Sportsx TT",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#04060a",
+  "theme_color": "#04060a",
+  "description": "Premium dark-themed table tennis club platform",
+  "icons": [
+    { "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}

@@ -1,0 +1,317 @@
+{
+  "site": {
+    "clubName": "Sportsx",
+    "heroLine1": "Where speed",
+    "heroLine2": "meets precision.",
+    "heroSubtitle": "Sportsx Table Tennis Hub — premium club management, social matchmaking, leaderboard, e-commerce, cafe ordering and an always-on AI assistant. All wrapped in a futuristic 3D arena.",
+    "activeMembers": "1,284",
+    "matchesPlayed": "9,742",
+    "phone": "+61 2 5550 0420",
+    "email": "contact@sportsx.com.au",
+    "address": "42 Cyber Ave, Sydney NSW 2000"
+  },
+  "members": [
+    {
+      "id": "p001",
+      "name": "Aarav Kumar",
+      "username": "aarav.k",
+      "avatar": "https://i.pravatar.cc/200?img=11",
+      "points": 240,
+      "rank": 1,
+      "wins": 48,
+      "losses": 9,
+      "style": "Attacker",
+      "joined": "2023-04-12",
+      "level": "Professional",
+      "online": true,
+      "available": "Tue, Thu 7-9 PM"
+    },
+    {
+      "id": "p002",
+      "name": "Hard Patel",
+      "username": "hard.p",
+      "avatar": "https://i.pravatar.cc/200?img=12",
+      "points": 30,
+      "rank": 2,
+      "wins": 6,
+      "losses": 2,
+      "style": "All-rounder",
+      "joined": "2024-01-04",
+      "level": "Intermediate",
+      "online": true,
+      "available": "Wed, Fri 7-9 PM"
+    },
+    {
+      "id": "p003",
+      "name": "Mei Tanaka",
+      "username": "mei.t",
+      "avatar": "https://i.pravatar.cc/200?img=47",
+      "points": 215,
+      "rank": 3,
+      "wins": 43,
+      "losses": 11,
+      "style": "Spinner",
+      "joined": "2023-09-21",
+      "level": "Advanced",
+      "online": false,
+      "available": "Thu, Fri 7-9 PM"
+    },
+    {
+      "id": "p004",
+      "name": "Liam OConnor",
+      "username": "liam.o",
+      "avatar": "https://i.pravatar.cc/200?img=15",
+      "points": 180,
+      "rank": 4,
+      "wins": 36,
+      "losses": 14,
+      "style": "Defender",
+      "joined": "2023-11-02",
+      "level": "Advanced",
+      "online": true,
+      "available": "Tue 7-9 PM"
+    },
+    {
+      "id": "p005",
+      "name": "Sofia Rossi",
+      "username": "sofia.r",
+      "avatar": "https://i.pravatar.cc/200?img=32",
+      "points": 150,
+      "rank": 5,
+      "wins": 30,
+      "losses": 18,
+      "style": "Attacker",
+      "joined": "2024-02-15",
+      "level": "Intermediate",
+      "online": false,
+      "available": "Fri 7-9 PM"
+    },
+    {
+      "id": "p006",
+      "name": "Jaden Cole",
+      "username": "jaden.c",
+      "avatar": "https://i.pravatar.cc/200?img=23",
+      "points": 120,
+      "rank": 6,
+      "wins": 24,
+      "losses": 22,
+      "style": "All-rounder",
+      "joined": "2024-03-30",
+      "level": "Intermediate",
+      "online": true,
+      "available": "Wed, Thu 7-9 PM"
+    },
+    {
+      "id": "p007",
+      "name": "Priya Sharma",
+      "username": "priya.s",
+      "avatar": "https://i.pravatar.cc/200?img=45",
+      "points": 90,
+      "rank": 7,
+      "wins": 18,
+      "losses": 22,
+      "style": "Spinner",
+      "joined": "2024-05-09",
+      "level": "Beginner",
+      "online": true,
+      "available": "Tue, Wed 7-9 PM"
+    },
+    {
+      "id": "p008",
+      "name": "Noah Becker",
+      "username": "noah.b",
+      "avatar": "https://i.pravatar.cc/200?img=68",
+      "points": 60,
+      "rank": 8,
+      "wins": 12,
+      "losses": 18,
+      "style": "Defender",
+      "joined": "2024-08-19",
+      "level": "Beginner",
+      "online": false,
+      "available": "Fri 7-9 PM"
+    }
+  ],
+  "products": [
+    {
+      "id": "pr001",
+      "name": "Sportsx Pro Carbon Racket",
+      "price": 289,
+      "image": "https://images.unsplash.com/photo-1611251135345-18c56206b863?w=600&q=80",
+      "category": "Rackets",
+      "rating": 4.9,
+      "reviews": 142,
+      "badge": "New"
+    },
+    {
+      "id": "pr002",
+      "name": "Tournament 3-Star Balls (12 pack)",
+      "price": 24,
+      "image": "https://images.unsplash.com/photo-1626224583764-f87db24ac1f9?w=600&q=80",
+      "category": "Balls",
+      "rating": 4.7,
+      "reviews": 318
+    },
+    {
+      "id": "pr003",
+      "name": "Spin Master Rubber",
+      "price": 65,
+      "image": "https://images.unsplash.com/photo-1622279457486-62dcc4a431d6?w=600&q=80",
+      "category": "Rubbers",
+      "rating": 4.8,
+      "reviews": 88,
+      "badge": "Top Rated"
+    },
+    {
+      "id": "pr004",
+      "name": "Sportsx Folding Table",
+      "price": 1199,
+      "image": "https://images.unsplash.com/photo-1582653291997-079a1c04e208?w=600&q=80",
+      "category": "Tables",
+      "rating": 4.9,
+      "reviews": 41
+    },
+    {
+      "id": "pr005",
+      "name": "Pro Series Net Set",
+      "price": 49,
+      "image": "https://images.unsplash.com/photo-1599058917212-d750089bc07e?w=600&q=80",
+      "category": "Nets",
+      "rating": 4.6,
+      "reviews": 64
+    },
+    {
+      "id": "pr006",
+      "name": "AeroGrip Sport Shoes",
+      "price": 159,
+      "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=600&q=80",
+      "category": "Shoes",
+      "rating": 4.8,
+      "reviews": 211
+    },
+    {
+      "id": "pr007",
+      "name": "Sportsx Performance Tee",
+      "price": 39,
+      "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=600&q=80",
+      "category": "Clothing",
+      "rating": 4.5,
+      "reviews": 109
+    },
+    {
+      "id": "pr008",
+      "name": "Carbon Racket Case",
+      "price": 35,
+      "image": "https://images.unsplash.com/photo-1503602642458-232111445657?w=600&q=80",
+      "category": "Accessories",
+      "rating": 4.7,
+      "reviews": 75
+    }
+  ],
+  "cafeItems": [
+    {
+      "id": "c1",
+      "name": "Sportsx Flat White",
+      "price": 5.5,
+      "image": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=600&q=80",
+      "category": "Coffee"
+    },
+    {
+      "id": "c2",
+      "name": "Cold Brew Glacier",
+      "price": 6.5,
+      "image": "https://images.unsplash.com/photo-1517701604599-bb29b565090c?w=600&q=80",
+      "category": "Coffee"
+    },
+    {
+      "id": "c3",
+      "name": "Matcha Latte",
+      "price": 6,
+      "image": "https://images.unsplash.com/photo-1536682984060-c5b81f6df1c8?w=600&q=80",
+      "category": "Tea"
+    },
+    {
+      "id": "c4",
+      "name": "Chai Storm",
+      "price": 5.5,
+      "image": "https://images.unsplash.com/photo-1571934811356-5cc061b6821f?w=600&q=80",
+      "category": "Tea"
+    },
+    {
+      "id": "c5",
+      "name": "Electric Lemonade",
+      "price": 7,
+      "image": "https://images.unsplash.com/photo-1556679343-c7306c1976bc?w=600&q=80",
+      "category": "Cold Drinks"
+    },
+    {
+      "id": "c6",
+      "name": "Tropic Blue Smoothie",
+      "price": 8.5,
+      "image": "https://images.unsplash.com/photo-1502741338009-cac2772e18bc?w=600&q=80",
+      "category": "Smoothies"
+    },
+    {
+      "id": "c7",
+      "name": "Sportsx Smash Burger",
+      "price": 16.5,
+      "image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=600&q=80",
+      "category": "Burgers"
+    },
+    {
+      "id": "c8",
+      "name": "Halloumi Club Sandwich",
+      "price": 14,
+      "image": "https://images.unsplash.com/photo-1539252554453-80ab65ce3586?w=600&q=80",
+      "category": "Sandwiches"
+    },
+    {
+      "id": "c9",
+      "name": "Loaded Sweet Potato Fries",
+      "price": 9,
+      "image": "https://images.unsplash.com/photo-1541592106381-b31e9677c0e5?w=600&q=80",
+      "category": "Snacks"
+    },
+    {
+      "id": "c10",
+      "name": "Neon Berry Cheesecake",
+      "price": 9.5,
+      "image": "https://images.unsplash.com/photo-1565958011703-44f9829ba187?w=600&q=80",
+      "category": "Desserts"
+    }
+  ],
+  "events": [
+    {
+      "id": "e1",
+      "day": "Tuesday",
+      "title": "Social Night — Open Play",
+      "time": "7:00 PM – 9:00 PM",
+      "rsvp": 38,
+      "capacity": 60
+    },
+    {
+      "id": "e2",
+      "day": "Wednesday",
+      "title": "Skills Clinic + Mini-League",
+      "time": "7:00 PM – 9:00 PM",
+      "rsvp": 24,
+      "capacity": 40
+    },
+    {
+      "id": "e3",
+      "day": "Thursday",
+      "title": "Doubles Night",
+      "time": "7:00 PM – 9:00 PM",
+      "rsvp": 32,
+      "capacity": 48
+    },
+    {
+      "id": "e4",
+      "day": "Friday",
+      "title": "Sportsx Tournament Night",
+      "time": "7:00 PM – 9:00 PM",
+      "rsvp": 51,
+      "capacity": 64
+    }
+  ]
+}
